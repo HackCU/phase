@@ -1,0 +1,6 @@
+
+- name: Seagate
+  tier: bronze
+  image-url: /assets/images/sponsors/seagate.png
+  url: https://seagate.com
+
