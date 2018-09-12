@@ -1,4 +1,5 @@
 
+//  Script from: https://codepen.io/scorch/pen/rwrWaG
 
 ctrl = {
     numParticles: 80,
