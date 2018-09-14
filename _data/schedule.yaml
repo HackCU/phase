@@ -34,6 +34,10 @@
   day:  2
   time: "12:30 am"
 
-- name: Closing Ceremonies
+- name: Closing Ceremonies w top 3 presentations
   day:  2
-  time: "1:00 am"
+  time: "1:30 am"
+
+- name: End of event
+  day:  2
+  time: "2:30 am"
