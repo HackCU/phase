@@ -2,14 +2,14 @@
 //  Script from: https://codepen.io/scorch/pen/rwrWaG
 
 ctrl = {
-    numParticles: 80,
-    maxRadius: 120,
-    hue: 220,
-    hueRange: 15,
-    fade: 0.36,
+    numParticles: 90,
+    maxRadius: 110,
+    hue: 198,
+    hueRange: 61,
+    fade: 0.43,
     halo: true,
     zappy: true,
-    zapComplexity: 1
+    zapComplexity: 2
   }
   
 //   var gui = new dat.GUI();
@@ -67,9 +67,9 @@ ctrl = {
   
   function Particle() {
     // initialize loopers with random trange and offset
-    this.loop1 = new Looper(1200 + 200 * Math.random(), 9000 * Math.random()) 
-    this.loop2 = new Looper(880 + 950 * Math.random(), 9000 * Math.random())
-    this.loop3 = new Looper(550 + 920 * Math.random(), 9000 * Math.random())
+    this.loop1 = new Looper(1250 + 170 * Math.random(), 11000 * Math.random()) 
+    this.loop2 = new Looper(800 + 950 * Math.random(), 10000 * Math.random())
+    this.loop3 = new Looper(400 + 920 * Math.random(), 9000 * Math.random())
     this.history = []
     this.history_max = 1
     this.c = ``
