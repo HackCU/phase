@@ -1,3 +1,4 @@
-
-
-
+- name: Particle.io
+  image-url: /assets/images/sponsors/particle.png
+  tier: kind
+  url: https://www.particle.io/
