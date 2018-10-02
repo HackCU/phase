@@ -1,8 +1,8 @@
-- name: Breakfast and Check-In
+- name: Check-In
   day:  1
   time: "7:00 am"
 
-- name: Career Fair
+- name: Breakfast
   day:  1
   time: "7:30 am"
 
@@ -11,6 +11,10 @@
   time: "8:00 am"
 
 - name: Hacking Begins!
+  day:  1
+  time: "8:00 am"
+
+- name: Team formation
   day:  1
   time: "8:30 am"
 
@@ -24,20 +28,20 @@
   
 - name: Desserts
   day:  2
-  time: "11:00 pm"
+  time: "9:00 pm"
 
 - name: Hacking Ends
   day:  2
-  time: "12:00 am"
+  time: "11:00 pm"
 
 - name: Project Expo / Judging
   day:  2
-  time: "12:30 am"
+  time: "11:30 pm"
 
 - name: Closing Ceremonies w top 3 presentations
   day:  2
-  time: "1:30 am"
+  time: "12:00 am"
 
 - name: End of event
   day:  2
-  time: "2:30 am"
+  time: "1:00 am"
