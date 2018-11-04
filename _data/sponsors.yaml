@@ -7,3 +7,8 @@
   image-url: /assets/images/sponsors/mistyrobotics.png
   tier: silver
   url: https://mistyrobotics.com
+
+- name: Xilinx
+  image-url: /assets/images/sponsors/xilinx.png
+  tier: gold
+  url: https://www.xilinx.com/
